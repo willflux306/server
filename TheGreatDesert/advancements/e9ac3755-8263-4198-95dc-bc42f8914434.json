@@ -25,9 +25,15 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-03-14 19:13:11 +1300",
       "scrubland": "2024-03-12 19:03:13 +1300",
+      "bayou": "2024-03-14 20:07:56 +1300",
+      "clover_patch": "2024-03-14 20:18:08 +1300",
+      "old_growth_woodland": "2024-03-14 19:12:51 +1300",
       "mediterranean_forest": "2024-03-12 19:13:25 +1300",
-      "rainforest": "2024-03-12 19:22:28 +1300"
+      "volcanic_plains": "2024-03-14 20:12:25 +1300",
+      "rainforest": "2024-03-12 19:22:28 +1300",
+      "crag": "2024-03-14 20:06:39 +1300"
     },
     "done": false
   },
@@ -41,12 +47,16 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2024-03-12 19:22:52 +1300",
       "minecraft:beach": "2024-03-12 19:26:38 +1300",
+      "minecraft:mangrove_swamp": "2024-03-14 20:07:49 +1300",
       "minecraft:sparse_jungle": "2024-03-12 19:25:28 +1300",
       "minecraft:river": "2024-03-12 19:05:09 +1300",
       "minecraft:lukewarm_ocean": "2024-03-12 19:22:34 +1300",
       "minecraft:stony_shore": "2024-03-12 19:22:32 +1300",
       "minecraft:forest": "2024-03-12 19:26:15 +1300",
       "minecraft:jungle": "2024-03-12 19:25:58 +1300",
+      "minecraft:warm_ocean": "2024-03-14 20:29:55 +1300",
+      "minecraft:deep_lukewarm_ocean": "2024-03-14 20:29:27 +1300",
+      "minecraft:old_growth_birch_forest": "2024-03-14 20:17:39 +1300",
       "minecraft:savanna": "2024-03-12 19:19:58 +1300",
       "minecraft:plains": "2024-03-12 19:26:20 +1300"
     },
@@ -85,6 +95,111 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2024-03-12 19:14:42 +1300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-03-14 18:59:30 +1300"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "orange": "2024-03-14 19:01:23 +1300",
+      "lavender": "2024-03-14 20:07:57 +1300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-03-14 19:11:00 +1300",
+      "apple": "2024-03-14 20:02:44 +1300",
+      "mutton": "2024-03-14 19:09:30 +1300",
+      "rotten_flesh": "2024-03-14 19:31:40 +1300",
+      "melon_slice": "2024-03-14 20:10:40 +1300"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-03-14 19:10:15 +1300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-03-14 19:16:50 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2024-03-14 19:17:16 +1300",
+      "rice": "2024-03-14 20:39:27 +1300",
+      "sugar_cane": "2024-03-14 19:20:34 +1300",
+      "wheat": "2024-03-14 19:16:50 +1300",
+      "melon": "2024-03-14 19:20:26 +1300"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-03-14 19:26:47 +1300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2024-03-14 19:27:07 +1300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2024-03-14 19:27:17 +1300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-03-14 19:30:40 +1300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-03-14 19:30:40 +1300"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2024-03-14 20:51:18 +1300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2024-03-14 21:40:16 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-03-14 20:39:27 +1300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2024-03-14 20:51:18 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-03-14 21:22:27 +1300"
     },
     "done": true
   },

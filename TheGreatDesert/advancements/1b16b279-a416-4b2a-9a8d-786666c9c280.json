@@ -1,0 +1,231 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-03-14 19:05:11 +1300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-03-14 19:05:12 +1300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-03-14 19:05:12 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2024-03-14 19:05:12 +1300",
+      "clover_patch": "2024-03-14 20:10:55 +1300",
+      "orchard": "2024-03-14 20:08:12 +1300",
+      "lavender_forest": "2024-03-14 19:50:11 +1300",
+      "mediterranean_forest": "2024-03-14 19:11:58 +1300",
+      "spider_nest": "2024-03-14 19:37:58 +1300",
+      "redwood_forest": "2024-03-14 19:57:19 +1300",
+      "dune_beach": "2024-03-14 19:50:03 +1300",
+      "lavender_field": "2024-03-14 20:01:53 +1300"
+    },
+    "done": false
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-03-14 19:05:12 +1300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-03-14 19:05:12 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2024-03-14 19:05:12 +1300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-03-14 19:06:12 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-03-14 19:07:07 +1300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-14 19:08:11 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-03-14 19:08:47 +1300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2024-03-14 20:04:04 +1300",
+      "minecraft:sunflower_plains": "2024-03-14 20:04:42 +1300",
+      "minecraft:beach": "2024-03-14 19:43:44 +1300",
+      "minecraft:river": "2024-03-14 19:09:37 +1300",
+      "minecraft:lukewarm_ocean": "2024-03-14 19:49:20 +1300",
+      "minecraft:stony_shore": "2024-03-14 20:08:21 +1300",
+      "minecraft:forest": "2024-03-14 19:51:25 +1300",
+      "minecraft:ocean": "2024-03-14 19:49:58 +1300",
+      "minecraft:savanna": "2024-03-14 19:19:41 +1300",
+      "minecraft:plains": "2024-03-14 19:20:57 +1300"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-03-14 19:10:08 +1300"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-03-14 19:10:58 +1300"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-03-14 19:10:58 +1300"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-03-14 19:12:19 +1300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-03-14 20:05:06 +1300",
+      "bread": "2024-03-14 19:18:57 +1300",
+      "carrot": "2024-03-14 20:37:11 +1300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-14 19:18:57 +1300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2024-03-14 19:27:00 +1300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-03-14 19:27:00 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-03-14 19:28:29 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-03-14 19:28:34 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-14 19:28:35 +1300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:cave_spider": "2024-03-14 19:38:25 +1300",
+      "minecraft:zombie": "2024-03-14 21:00:44 +1300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:cave_spider": "2024-03-14 19:38:25 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-03-14 20:01:01 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-03-14 20:01:04 +1300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-03-14 20:33:24 +1300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-03-14 20:44:40 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-03-14 20:46:58 +1300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2024-03-14 21:06:50 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2024-03-14 20:46:39 +1300",
+      "onion": "2024-03-14 20:45:06 +1300",
+      "tomato": "2024-03-14 20:46:44 +1300",
+      "rice": "2024-03-14 20:46:58 +1300",
+      "beetroot": "2024-03-14 20:46:50 +1300",
+      "sugar_cane": "2024-03-14 20:49:23 +1300",
+      "potato": "2024-03-14 21:09:05 +1300",
+      "wheat": "2024-03-14 20:44:40 +1300",
+      "melon": "2024-03-14 20:46:24 +1300",
+      "pumpkin": "2024-03-14 20:45:36 +1300",
+      "carrot": "2024-03-14 20:44:34 +1300"
+    },
+    "done": false
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2024-03-14 21:06:50 +1300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
