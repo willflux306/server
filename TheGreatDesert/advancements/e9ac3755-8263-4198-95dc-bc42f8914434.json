@@ -161,6 +161,7 @@
     "criteria": {
       "tomato": "2024-03-14 19:17:16 +1300",
       "rice": "2024-03-14 20:39:27 +1300",
+      "cocoa": "2024-03-18 17:00:29 +1300",
       "sugar_cane": "2024-03-14 19:20:34 +1300",
       "potato": "2024-03-16 16:14:01 +1300",
       "wheat": "2024-03-14 19:16:50 +1300",
@@ -191,8 +192,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-03-16 14:42:44 +1300",
+      "minecraft:skeleton": "2024-03-17 21:17:56 +1300",
       "minecraft:spider": "2024-03-15 18:13:47 +1300",
       "minecraft:creeper": "2024-03-16 20:16:10 +1300",
+      "minecraft:silverfish": "2024-03-19 16:54:45 +1300",
       "minecraft:zombie": "2024-03-14 19:30:40 +1300"
     },
     "done": false
@@ -398,6 +401,54 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-03-17 17:24:47 +1300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2024-03-17 21:09:41 +1300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-03-17 21:34:16 +1300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2024-03-17 21:34:43 +1300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2024-03-18 18:08:52 +1300"
+    },
+    "done": true
+  },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2024-03-18 18:08:52 +1300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/creosote": {
+    "criteria": {
+      "has_item": "2024-03-18 19:34:58 +1300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2024-03-18 19:55:48 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-03-18 20:24:51 +1300"
     },
     "done": true
   },
