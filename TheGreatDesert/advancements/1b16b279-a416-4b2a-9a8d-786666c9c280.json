@@ -28,11 +28,15 @@
       "lavender_forest": "2024-03-14 19:50:11 +1300",
       "mediterranean_forest": "2024-03-14 19:11:58 +1300",
       "spider_nest": "2024-03-14 19:37:58 +1300",
+      "dryland": "2024-03-20 18:26:53 +1300",
+      "wasteland": "2024-03-20 18:26:36 +1300",
       "redwood_forest": "2024-03-14 19:57:19 +1300",
       "dune_beach": "2024-03-14 19:50:03 +1300",
       "volcanic_plains": "2024-03-16 13:17:41 +1300",
       "lavender_field": "2024-03-14 20:01:53 +1300",
-      "rainforest": "2024-03-16 13:16:34 +1300"
+      "undergrowth": "2024-03-22 20:31:39 +1300",
+      "rainforest": "2024-03-16 13:16:34 +1300",
+      "crag": "2024-03-20 19:48:59 +1300"
     },
     "done": false
   },
@@ -90,6 +94,7 @@
       "minecraft:stony_shore": "2024-03-14 20:08:21 +1300",
       "minecraft:dripstone_caves": "2024-03-16 14:06:48 +1300",
       "minecraft:forest": "2024-03-14 19:51:25 +1300",
+      "minecraft:desert": "2024-03-20 18:39:58 +1300",
       "minecraft:ocean": "2024-03-14 19:49:58 +1300",
       "minecraft:jungle": "2024-03-16 13:13:19 +1300",
       "minecraft:flower_forest": "2024-03-18 20:49:55 +1300",
@@ -213,6 +218,7 @@
       "tomato": "2024-03-14 20:46:44 +1300",
       "rice": "2024-03-14 20:46:58 +1300",
       "beetroot": "2024-03-14 20:46:50 +1300",
+      "cocoa": "2024-03-20 16:56:21 +1300",
       "sugar_cane": "2024-03-14 20:49:23 +1300",
       "potato": "2024-03-14 21:09:05 +1300",
       "wheat": "2024-03-14 20:44:40 +1300",
@@ -460,6 +466,24 @@
   "minecolonies:military/root": {
     "criteria": {
       "guardtower": "2024-03-18 18:08:52 +1300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-03-22 20:36:04 +1300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-03-22 20:31:38 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-03-22 20:31:38 +1300"
     },
     "done": true
   },
